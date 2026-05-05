@@ -58,6 +58,11 @@ The dataset contains export records with the following key columns:
 - Country–commodity relationships
 - Correlation analysis
 
+## 📷 Sample Visualizations
+
+![Region wise Export trend](images/"C:\Users\Thahira\OneDrive\Pictures\Screenshots\Region wise export trend.png")
+![Quantity vs Export Value](images/C:\Users\Thahira\OneDrive\Pictures\Screenshots\Quantity vs Export Value.png)
+
 ---
 
 ## 📈 Key Insights
