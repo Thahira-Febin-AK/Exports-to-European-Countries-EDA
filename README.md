@@ -60,11 +60,11 @@ The dataset contains export records with the following key columns:
 
 ## 📷 Sample Visualizations
 
-![Region wise Export trend](images/<img width="1267" height="376" alt="Region wise export trend" src="https://github.com/user-attachments/assets/e1571a59-24c8-4b09-ac1c-7651faab9ed2" />
+(images/<img width="1267" height="376" alt="Region wise export trend" src="https://github.com/user-attachments/assets/e1571a59-24c8-4b09-ac1c-7651faab9ed2" />
 )
 
 
-![Quantity vs Export Value](images/<img width="1197" height="367" alt="Quantity vs Export Value" src="https://github.com/user-attachments/assets/44945eae-1d44-445a-9bf1-683c74951885" />
+(images/<img width="1197" height="367" alt="Quantity vs Export Value" src="https://github.com/user-attachments/assets/44945eae-1d44-445a-9bf1-683c74951885" />
 )
 
 ---
